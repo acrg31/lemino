@@ -1,0 +1,79 @@
+<resources>
+    <string name="app_name">CommunicationProj</string>
+
+
+    <string name="UPHSJ" translatable="false">UNIVERSITY OF PERPETUAL HELP SYSTEM JONELTA</string>
+    <string name="thesis_name" translatable="false">THESIS NAME</string>
+    <string name="select_words" translatable="false">SELECT WORDS</string>
+    <string name="text2speech" translatable="false">TEXT TO SPEECH</string>
+    <string name="text2Speech" translatable="false">Text2Speech</string>
+    <string name="eat" translatable="false">EAT</string>
+    <string name="Itchy" translatable="false">ITCHY</string>
+    <string name="drink" translatable="false">DRINK</string>
+    <string name="sleepy" translatable="false">SLEEPY</string>
+    <string name="Help" translatable="false">HELP</string>
+    <string name="Toilet" translatable="false">TOILET</string>
+    <string name="Hurt" translatable="false">HURT</string>
+    <string name="Pain" translatable="false">PAIN RATE</string>
+    <string name="Feelings" translatable="false">FEELINGS</string>
+    <string name="LEMINO" translatable="false">LEMINO</string>
+    <string name="TULONG" translatable="false">TULONG</string>
+    <string name="Magbanyo" translatable="false">CR</string>
+    <string name="Masakit" translatable="false">MASAKIT</string>
+    <string name="salita" translatable="false">MAGSALITA</string>
+    <string name="Nararamadaman" translatable="false">NARARAMDAMAN</string>
+    <string name="ANO" translatable="false">ANO ANG IYONG KAILANGAN?</string>
+    <string name="needHelp" translatable="false">TULUNGAN MO AKO</string>
+    <string name="Pwesto" translatable="false">HINDI AKO KOMPORTABLE SA PWESTO KO</string>
+    <string name="title_activity_help_layout" translatable="false">helpLayout</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label" translatable="false">First Fragment</string>
+    <string name="second_fragment_label" translatable="false">Second Fragment</string>
+    <string name="next" translatable="false">Next</string>
+    <string name="previous" translatable="false">Previous</string>
+
+    <string name="hello_first_fragment" translatable="false">Hello first fragment</string>
+    <string name="hello_second_fragment" translatable="false">Hello second fragment. Arg: %1$s</string>
+    <string name="cr" translatable="false">CR</string>
+    <string name="Napadumi" translatable="false">NAPADUMI</string>
+    <string name="Napaihi" translatable="false">NAPAIHI</string>
+    <string name="CleanUp" translatable="false">TULUNGAN MO AKONG LINISIN ANG AKING SARILI</string>
+    <string name="ulo" translatable="false">ULO</string>
+    <string name="paa" translatable="false">PAA</string>
+    <string name="hurting" translatable="false">MAY MASAKIT SA AKIN</string>
+    <string name="breath" translatable="false">NAHIHIRAPAN AKO HUMINGA</string>
+    <string name="hurts2" translatable="false">MASAKIT BA IYAN?</string>
+    <string name="hurt3" translatable="false">HUWAG SANA MASYADONG MASAKIT</string>
+    <string name="masakitsaakin" translatable="false">MASAKIT SAKIN</string>
+    <string name="Kamay" translatable="false">KAMAY</string>
+    <string name="Ngipin" translatable="false">NGIPIN</string>
+    <string name="Mata" translatable="false">MATA</string>
+    <string name="Tiyan" translatable="false">TIYAN</string>
+    <string name="DIBDIB" translatable="false">DIBDIB</string>
+    <string name="talk1" translatable="false">KAUSAPIN ANG AKING:</string>
+    <string name="Explain" translatable="false">IPALIWANAG SAAKIN ANG IYONG GAGAWIN</string>
+    <string name="shutUp" translatable="false">SANA\'Y BAWASANG ANG INGAY</string>
+    <string name="Nilalamig" translatable="false">NILALAMIG</string>
+    <string name="Naiinitan" translatable="false">NAIINITAN</string>
+    <string name="Kinakabahan" translatable="false">KINAKABAHAN</string>
+    <string name="scared" translatable="false">NATATAKOT AKO</string>
+    <string name="ratepain" translatable="false">Gaano kasakit?</string>
+    <string name="one" translatable="false">ONE</string>
+    <string name="two" translatable="false">TWO</string>
+    <string name="three" translatable="false">THREE</string>
+    <string name="four" translatable="false">FOUR</string>
+    <string name="five" translatable="false">FIVE</string>
+    <string name="six" translatable="false">SIX</string>
+    <string name="seven" translatable="false">SEVEN</string>
+    <string name="eight" translatable="false">EIGHT</string>
+    <string name="nine" translatable="false">NINE</string>
+    <string name="ten" translatable="false">TEN</string>
+    <string name="anak" translatable="false">ANAK</string>
+    <string name="asawa" translatable="false">ASAWA</string>
+    <string name="kapatid" translatable="false">KAPATID</string>
+    <string name="kamaganak" translatable="false">KAMAG ANAK</string>
+    <string name="kaibigan" translatable="false">KAIBIGAN</string>
+    <string name="inputtext" translatable="false">INPUTE TEXT HERE</string>
+    <string name="generate" translatable="false">GENERATE SPEECJ</string>
+
+</resources>
